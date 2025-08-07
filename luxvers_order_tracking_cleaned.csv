@@ -1,0 +1,4 @@
+CLIENT ID,Order Reference (ATS - Reorder),Email Object,Quantity Sent,Quantity Confirmed,Transfer Activated (Yes / No),Documents Created (Invoice and Packing List),Payment Received (Yes / No),MRN Created (Yes / No),Pick Up Status (Done / Not Done)
+,,"(Object must include the order reference, not new goods) ",,,,,,,
+Example,,,,,,,,,
+514,ATS South 07/08/2025 (offer date),ATS South 07/08/2025 Client 514,76.0,70.0,Yes,Yes,Yes,Yes,Done
